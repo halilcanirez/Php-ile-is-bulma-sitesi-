@@ -1,0 +1,24 @@
+.baslik{
+
+	marginargin: 0;
+	padding: 30px 0;
+	font: 26px/1 'roboto-l';
+	color: #ffff;
+
+}
+
+
+select {
+	width: 60px;
+	height: 30px;
+	font-size: 13px;
+}
+.ozbaslik{
+	color: #666;
+    font-size: 20px;
+    text-align: left;
+}
+
+
+
+
