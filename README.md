@@ -1,5 +1,6 @@
 # Php ile İşbulma sitesi 
  İşilanı bulma sitesi - Kariyer.net in clonu 
+ Php ve MySQL
 ![dsawqdfısı](https://user-images.githubusercontent.com/57045507/121784175-309f4800-cbbb-11eb-9a0f-a227e6de4a40.PNG)
 ![Ekraertf3w2Alıntısı](https://user-images.githubusercontent.com/57045507/121784176-31d07500-cbbb-11eb-917c-9c87515c4ddf.PNG)
 ![Ekran Afsaefdelıntısı](https://user-images.githubusercontent.com/57045507/121784177-32690b80-cbbb-11eb-9bd1-9f5a446cfcb1.PNG)
